@@ -17,12 +17,12 @@
       "categoryId": 1
     }
   ],
-    "users": [
-      {
-        "id": 1,
-        "role": 1,
-        "acc": "admin",
-        "password": "aQ#QLbG48m@L"
-      }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "role": 1,
+      "acc": "admin",
+      "password": "aQ#QLbG48m@L"
+    }
+  ]
 }
