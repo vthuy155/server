@@ -1,9 +1,21 @@
 {
+  "categories": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "shortDesc": "typicode",
+      "banner": "abcxyz"
+    }
+  ],
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "name": "some comment",
+      "image": "abc",
+      "shortDesc": "typicode",
+      "content": "abcxyz",
+      "categoryId": 1
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "users": []
 }
