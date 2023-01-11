@@ -17,5 +17,12 @@
       "categoryId": 1
     }
   ],
-    "users": []
+    "users": [
+      {
+        "id": 1,
+        "role": 1,
+        "acc": "admin",
+        "password": "aQ#QLbG48m@L"
+      }
+    ]
 }
